@@ -40,10 +40,3 @@
 
 آن‌چه باید آپلود کنید
 پس از طراحی کوئری‌ها، کد خود را در قالب زیر در یک فایل با پسوند .sql آپلود کنید.
-
-    -- Section1
-        Your first query here
-    -- Section2
-        Your second query here
-    -- Section3
-        Your third query here
